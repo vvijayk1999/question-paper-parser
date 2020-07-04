@@ -1,0 +1,738 @@
+[
+    {
+        "Question": "Which of the following is not a result of cell division?",
+        "Option_A": " Growth",
+        "Option_B": " Repair",
+        "Option_C": " Metabolism",
+        "Option_D": " Reproduction",
+        "Answer": "3"
+    },
+    {
+        "Question": "Mark the incorrect pair.",
+        "Option_A": " Hydra  -  Budding",
+        "Option_B": " Flatworm - Regeneration",
+        "Option_C": " Amoeba    - Fragmentation",
+        "Option_D": " Yeast - Budding",
+        "Answer": "3"
+    },
+    {
+        "Question": "Which of the following is incorrect for reproduction?",
+        "Option_A": " Unicellular organisms reproduce by cell division",
+        "Option_B": " Reproduction is a characteristic of all living organisms",
+        "Option_C": "In unicellular organisms, reproduction and growth are linked together",
+        "Option_D": " Non-living objects are incapable of reproducing",
+        "Answer": "2"
+    },
+    {
+        "Question": "Mark  the  incorrect  statement  w.r.t. metabolism.",
+        "Option_A": " Microbes exhibit the metabolism",
+        "Option_B": "It is the property of all living forms",
+        "Option_C": " The metabolic reactions can be demonstrated in-vitro",
+        "Option_D": "It is not a defining feature of life forms",
+        "Answer": "4"
+    },
+    {
+        "Question": "Non-living objects exhibit/show",
+        "Option_A": " Property of self-replication",
+        "Option_B": " Evolution",
+        "Option_C": " Self-regulating interactive systems",
+        "Option_D": " Reversible growth",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which statement is false about the growth shown by non-living objects?",
+        "Option_A": " The growth occurs from outside",
+        "Option_B": " The growth is reversible",
+        "Option_C": " The growth is due to the accumulation of material on the surface",
+        "Option_D": " The growth is intrinsic",
+        "Answer": "4"
+    },
+    {
+        "Question": "Local names of various plants and animals",
+        "Option_A": " Help in recognizing organisms worldwide",
+        "Option_B": " Are used universally",
+        "Option_C": " Are  specific and distinct names",
+        "Option_D": " Vary from place to place",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which of the following is incorrect w.r.t. Binomial nomenclature?",
+        "Option_A": " Biological names are generally in Latin",
+        "Option_B": " The first word in a biological name represents the genus",
+        "Option_C": " Biological names are printed in italics",
+        "Option_D": " The first word of the genus starts with a small letter",
+        "Answer": "4"
+    },
+    {
+        "Question": "What do A, B and C represent in the given scientific name respectively?MangiferaCindicaBLinnA",
+        "Option_A": " Generic name, specific name and author's name",
+        "Option_B": " Specific name, generic name and author's name",
+        "Option_C": " Author's name, specific name and generic name",
+        "Option_D": " Generic name, author's name and specific name",
+        "Answer": "3"
+    },
+    {
+        "Question": "Which of the following is incorrect regarding scientific names?",
+        "Option_A": " These are also known as common names",
+        "Option_B": " These ensure that each organism has only one name",
+        "Option_C": " These have two components - the generic name and specific epithet",
+        "Option_D": " These are universally accepted names",
+        "Answer": "1"
+    },
+    {
+        "Question": "According to binomial nomenclature, every living organism has",
+        "Option_A": " Two scientific names with single component",
+        "Option_B": " One scientific name with two components",
+        "Option_C": " Two names, one Latin and other common",
+        "Option_D": " One common name with three components",
+        "Answer": "2"
+    },
+    {
+        "Question": "Which of the following is incorrect w.r.t. Species?",
+        "Option_A": " A group of individual organisms with fundamental similarities",
+        "Option_B": " Two different species breed together to produce fertile offsprings",
+        "Option_C": " Human beings belong to the species sapiens",
+        "Option_D": " Panthera has many specific epithet as tigris, leo and pardus",
+        "Answer": "2"
+    },
+    {
+        "Question": "Taxonomy deals with",
+        "Option_A": " Development of zoological parks",
+        "Option_B": " Study of kinds and diversity of microorganisms only",
+        "Option_C": " Evolutionary relationships between organisms",
+        "Option_D": " Classification of diverse organisms in different taxa",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which of the following features are not shown by scientific names of various organism?",
+        "Option_A": " They consists of two components",
+        "Option_B": " They have Latin origin",
+        "Option_C": " They always have 'linn' abbreviation at the end of second component",
+        "Option_D": " They are printed in italics",
+        "Answer": "3"
+    },
+    {
+        "Question": "The correct sequence of taxonomic study of a newly discovered organism is",
+        "Option_A": " First classification then identification, nomenclature and characterization",
+        "Option_B": " First identification then classifying organism and then characterizations and nomenclature",
+        "Option_C": " First nomenclature then characterization, identification and classification",
+        "Option_D": " First characterisation then identification and  classification and then nomenclature",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which one of the following statements given below is not included in universal rules of nomenclature?",
+        "Option_A": " Generic names and specific epithet should be in Latin words",
+        "Option_B": " Generic name is immediately followed by name of taxonomists who described it firstly",
+        "Option_C": " Generic name must begin with capital letter",
+        "Option_D": " All  letters  of  the  specific  name must  be  small",
+        "Answer": "2"
+    },
+    {
+        "Question": "Find the correct sequence of taxonomic categories.",
+        "Option_A": " Division -> Kingdom -> Genus -> Order",
+        "Option_B": " Class -> Order -> Family -> Division",
+        "Option_C": " Species -> Genus -> Family -> Order",
+        "Option_D": " Kingdom -> Class -> Species -> Order",
+        "Answer": "2"
+    },
+    {
+        "Question": "Which of the following is a class?",
+        "Option_A": " Mammalia",
+        "Option_B": " Sapindales",
+        "Option_C": " Primate",
+        "Option_D": " Poales",
+        "Answer": "1"
+    },
+    {
+        "Question": "______ is the assemblage of families which exhibit a few similar characters.",
+        "Option_A": " Class",
+        "Option_B": " Genus",
+        "Option_C": " Species",
+        "Option_D": " Order",
+        "Answer": "4"
+    },
+    {
+        "Question": "Fill  in  the  blanks A  and  B.Kingdom -> Phylum -> [A] -> Order ->[B]",
+        "Option_A": " A - Genus; B - Species",
+        "Option_B": " A  -  Family;  B  -  Class",
+        "Option_C": " A  -  Class;  B  -  Family",
+        "Option_D": " A - Species; B - Division",
+        "Answer": "3"
+    },
+    {
+        "Question": "Match the following columnsColumn-IColumn-IIa. Binomial nomenclature(i) Carolus Linnaeusb. Generic name(ii) Muscidaec. Family(iii) Pantherad. Systema naturaeThe Living World4747474747",
+        "Option_A": " a(i), b(iii), c(iii), d(ii)",
+        "Option_B": " a(i), b(iii), c(ii), d(i)",
+        "Option_C": " a(ii), b(i), c(i), d(iii)",
+        "Option_D": " a(iii), b(i), c(ii), d(i)",
+        "Answer": "2"
+    },
+    {
+        "Question": "Genus is a category which comes in between the",
+        "Option_A": " Family and Species",
+        "Option_B": " Class and Family",
+        "Option_C": " Order and Phylum ",
+        "Option_D": " Kingdom and Class",
+        "Answer": "1"
+    },
+    {
+        "Question": "Three different genera Solanum, Petunia and Datura are placed in the family",
+        "Option_A": " Poaceae",
+        "Option_B": " Anacardiaceae",
+        "Option_C": " Hominidae",
+        "Option_D": " Solanaceae",
+        "Answer": "4"
+    },
+    {
+        "Question": "Cat and dog are placed in which families respectively",
+        "Option_A": " Felidae and Hominidae",
+        "Option_B": " Muscidae and Felidae",
+        "Option_C": " Poaceae and Canidae",
+        "Option_D": " Felidae and Canidae",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which one of the following criteria is/are essential and form the basis of classical taxonomic studies?",
+        "Option_A": " Ecological information of organisms",
+        "Option_B": " Development process",
+        "Option_C": " External and internal structure",
+        "Option_D": " External structure",
+        "Answer": "4"
+    },
+    {
+        "Question": "In which of the following pair of category, greater is the difficulty of determining the relationship to other taxaat the same level, thus the problem of classification becomes more complex?",
+        "Option_A": " Genus and species",
+        "Option_B": " Tribe and genus",
+        "Option_C": " Division and phylum",
+        "Option_D": " Species and family",
+        "Answer": "3"
+    },
+    {
+        "Question": "In taxonomic hierarchy, which of the following group of taxa will have less number of similarities as comparedto other?",
+        "Option_A": " Solanaceae, Convolvulaceae and Poaceae",
+        "Option_B": " Polymoniales, Poales and Sapindales",
+        "Option_C": " Solanum, Petunia and Atropa",
+        "Option_D": " Leopard, tiger and lion",
+        "Answer": "2"
+    },
+    {
+        "Question": "Taxonomic categories which come lower to the rank of class are",
+        "Option_A": " Order, phylum, family, species",
+        "Option_B": " Order, family, genus, species",
+        "Option_C": " Division, family, order, genus",
+        "Option_D": " Order, division, genus, species",
+        "Answer": "2"
+    },
+    {
+        "Question": "Two animals A and B have similar morphological features and are fundamentally similar with each other, theymust be treated as",
+        "Option_A": " One biological species",
+        "Option_B": " Two distinct species",
+        "Option_C": " One biological genera",
+        "Option_D": " Two distinct genera",
+        "Answer": "1"
+    },
+    {
+        "Question": "A place used for storing, preservation and exhibition of both plants and animals is known as",
+        "Option_A": " Herbaria",
+        "Option_B": " Botanical Garden",
+        "Option_C": " Museum",
+        "Option_D": " Zoos",
+        "Answer": "3"
+    },
+    {
+        "Question": "Herbarium consists of",
+        "Option_A": " Collection of living plants",
+        "Option_B": " Collection of plant and animal specimens preserved in the containers",
+        "Option_C": " Preserved insects in boxes after collecting killing and pinning",
+        "Option_D": " Herbarium sheets carrying dried, pressed and preserved plant specimens on them",
+        "Answer": "4"
+    },
+    {
+        "Question": "National Botanical Research Institute consists of",
+        "Option_A": " Dried and preserved plant specimens only",
+        "Option_B": " Collection of preserved plant and animal specimens",
+        "Option_C": " Flora, manuals and monographs only",
+        "Option_D": " Collection of living plants for reference",
+        "Answer": "4"
+    },
+    {
+        "Question": "Key  is",
+        "Option_A": " A form of herbaria",
+        "Option_B": " A type of educational institute",
+        "Option_C": " A taxonomical aid used for identifying various organisms",
+        "Option_D": " Taxonomic category",
+        "Answer": "3"
+    },
+    {
+        "Question": "In zoological parks, animals are",
+        "Option_A": " Kept and preserved in containers or jars",
+        "Option_B": " Preserved in boxes after killing",
+        "Option_C": " Kept in protected environments under human care ",
+        "Option_D": " Stuffed and then preserved",
+        "Answer": "3"
+    },
+    {
+        "Question": "For identifying organisms through key usually",
+        "Option_A": " Two contrasting characters are used",
+        "Option_B": " One similar character is studied",
+        "Option_C": " Two or more similar characters are used",
+        "Option_D": " Only one statement called lead is used",
+        "Answer": "1"
+    },
+    {
+        "Question": "Select correct statement for growth as one of the characteristic of living organisms.",
+        "Option_A": " Growth by increase in mass is a defining property of prokaryotic organisms only",
+        "Option_B": " Non-living objects do not show growth by increase in mass of body",
+        "Option_C": "Intrinsic growth is a characteristic of all living organisms",
+        "Option_D": " Growth can be extrinsic or intrinsic for multicellular organisms",
+        "Answer": "3"
+    },
+    {
+        "Question": "Reproduction is synonymous with growth in",
+        "Option_A": " Most of the fungi and Planaria",
+        "Option_B": " Desmids, diatoms and protozoans",
+        "Option_C": " Cyanobacteria, fungi and mosses",
+        "Option_D": " Mosses, algae and hydra",
+        "Answer": "2"
+    },
+    {
+        "Question": "Carolus Linnaeus is the father of taxonomy because of one of his contributions",
+        "Option_A": " Genera Plantarum",
+        "Option_B": " Binomial nomenclature",
+        "Option_C": " Described nearly ten thousand plants and animal species",
+        "Option_D": " Die Naturlichen Pflanzen Familien",
+        "Answer": "2"
+    },
+    {
+        "Question": "Binomial epithet has",
+        "Option_A": " Two Latin names only",
+        "Option_B": " Two Italics names written in Latin",
+        "Option_C": " Two Latin names and author's name in Italics",
+        "Option_D": " Two Latin names followed by author's name in Roman",
+        "Answer": "4"
+    },
+    {
+        "Question": "Systematics  is  the  study  of",
+        "Option_A": " Diversity amongst groups of organisms",
+        "Option_B": " Grouping of organisms",
+        "Option_C": "Identification and grouping of organisms",
+        "Option_D": "Identification, classification and taxonomy",
+        "Answer": "1"
+    },
+    {
+        "Question": "Which one of the following criteria is/are essential and form the basis of modern taxonomic studies?",
+        "Option_A": " Ecological information of organisms",
+        "Option_B": " Development process",
+        "Option_C": " External and internal structure",
+        "Option_D": " All  of  these",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which one of the following is the first publication of Carolus Linnaeus?",
+        "Option_A": " Systema Naturae",
+        "Option_B": " Classes Plantarum",
+        "Option_C": " Hortus Cliffortianus",
+        "Option_D": " Hortus Upplandicus",
+        "Answer": "4"
+    },
+    {
+        "Question": "Scientific name Rattus rattus is an example of",
+        "Option_A": " Binomial nomenclature",
+        "Option_B": " Tautonyms",
+        "Option_C": " Both ",
+        "Option_D": " & ",
+        "Answer": "4"
+    },
+    {
+        "Question": "Given organisms belongs to how many genera?Wheat, Brinjal, Potato, Lion, Dog, Tiger",
+        "Option_A": " Three",
+        "Option_B": " Two",
+        "Option_C": " Four",
+        "Option_D": " Five",
+        "Answer": "3"
+    },
+    {
+        "Question": "Organisms which can freely interbreed and produce fertile offspring and have similar coded information or blueprint for making these organisms are called",
+        "Option_A": " Species",
+        "Option_B": " Tribe",
+        "Option_C": " Genus",
+        "Option_D": " Sub-genus",
+        "Answer": "1"
+    },
+    {
+        "Question": "The correct sequence of taxonomic categories is",
+        "Option_A": " Division-class-family-tribe-order-genus -species",
+        "Option_B": " Division-class-order-family-tribe-genus -species",
+        "Option_C": " Phylum-order-class-tribe-family-genus-species",
+        "Option_D": " Class-phylum-tribe-order-family-genus-species",
+        "Answer": "2"
+    },
+    {
+        "Question": "Two species can be said to be reproductively isolated if they are",
+        "Option_A": "Interfertile",
+        "Option_B": " Not interfertile",
+        "Option_C": " Do not grow together in a common habitat",
+        "Option_D": " Growing together in a common habitat",
+        "Answer": "2"
+    },
+    {
+        "Question": "A genus having many species is known as",
+        "Option_A": " Polytypic",
+        "Option_B": " Monotypic",
+        "Option_C": " Polygamic",
+        "Option_D": " Both ",
+        "Answer": "1"
+    },
+    {
+        "Question": "In taxonomic hierarchy, which of the following group of taxa will have more number of similarities as comparedto other?",
+        "Option_A": " Anacardiaceae, Convolvulaceae and Poaceae",
+        "Option_B": " Polymoniales, Poales and Sapindales",
+        "Option_C": " Solanum, Petunia and Atropa",
+        "Option_D": " Leopard, tiger and lion",
+        "Answer": "4"
+    },
+    {
+        "Question": "In which of the following pair of category, greater is the difficulty of determining the relationship to other taxaat the same level, thus, the problem of classification becomes more complex?",
+        "Option_A": " Genus and species",
+        "Option_B": " Variety and genus",
+        "Option_C": " Division and phylum",
+        "Option_D": " Species and family",
+        "Answer": "3"
+    },
+    {
+        "Question": "Rice, cereals, monocots and plants represent",
+        "Option_A": " Different taxa at different level",
+        "Option_B": " Same taxa of different category",
+        "Option_C": " Different category of same taxa",
+        "Option_D": " Same category for different taxa",
+        "Answer": "1"
+    },
+    {
+        "Question": "The equivalent rank of Carnivora in taxonomic categories of man and housefly is respectively",
+        "Option_A": " Homo and Musca",
+        "Option_B": " Hominidae and Muscidae",
+        "Option_C": " Mammalia and Insecta",
+        "Option_D": " Primata and Diptera",
+        "Answer": "4"
+    },
+    {
+        "Question": "All given are suffixes used for category class, except",
+        "Option_A": "-phyta",
+        "Option_B": "-opsida",
+        "Option_C": "-phyceae",
+        "Option_D": "-ae",
+        "Answer": "1"
+    },
+    {
+        "Question": "Biological concept of species was given by ________ and it is based on ________",
+        "Option_A": " Lamarck; physiological isolation",
+        "Option_B": " Linnaeus; morphological isolation",
+        "Option_C": " Ernst Mayr; mechanical isolation",
+        "Option_D": " Ernst Mayr; reproductive isolation",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which category comes after phylum in descending order in taxonomic hierarchy?",
+        "Option_A": " Genus",
+        "Option_B": " Family",
+        "Option_C": " Class",
+        "Option_D": " Species",
+        "Answer": "3"
+    },
+    {
+        "Question": "Order primata and carnivora are placed in the same class, i.e.",
+        "Option_A": " Hominidae",
+        "Option_B": " Mammalia",
+        "Option_C": "Insecta",
+        "Option_D": " Chordata",
+        "Answer": "2"
+    },
+    {
+        "Question": "Fishes, amphibians, reptiles and birds are kept in the same",
+        "Option_A": " Order",
+        "Option_B": " Class",
+        "Option_C": " Genus",
+        "Option_D": " Phylum",
+        "Answer": "4"
+    },
+    {
+        "Question": "Choose odd one out w.r.t. Panthera leo",
+        "Option_A": " Common name of tiger",
+        "Option_B": " Panthera represents generic name",
+        "Option_C": "leo represents specific epithet",
+        "Option_D": " Panthera represents higher level of taxon than leo",
+        "Answer": "1"
+    },
+    {
+        "Question": "Potato and brinjal belong to the genus Solanum, which reflects that",
+        "Option_A": " They belong to single species",
+        "Option_B": " They are a group of related species",
+        "Option_C": " They both are morphologically and structurally similar to each other in all respects",
+        "Option_D": " They can always produce fertile hybrid",
+        "Answer": "2"
+    },
+    {
+        "Question": "Class mammalia  consists  of",
+        "Option_A": " Order carnivora only",
+        "Option_B": " Families like felidae and canidae only",
+        "Option_C": " Related orders like carnivora, primata, etc.",
+        "Option_D": " All animals belonging to various phyla",
+        "Answer": "3"
+    },
+    {
+        "Question": "Dicots like mango, brinjal and monocot like wheat are placed under a common taxonomic category known as",
+        "Option_A": " Phylum - Arthropoda",
+        "Option_B": " Phylum - Angiospermae",
+        "Option_C": " Division - Angiospermae",
+        "Option_D": " Class - Angiospermae",
+        "Answer": "3"
+    },
+    {
+        "Question": "Rice and brinjal belong to the category ending with suffix",
+        "Option_A": "'aceae'",
+        "Option_B": "'ales'",
+        "Option_C": "'phyta'",
+        "Option_D": "'ae'",
+        "Answer": "3"
+    },
+    {
+        "Question": "Various taxonomic categories are",
+        "Option_A": " Mere morphological aggregates",
+        "Option_B": " Distinct  biological  entities",
+        "Option_C": "International codes used for nomenclature",
+        "Option_D": " Collection of organisms on structural similarities only",
+        "Answer": "2"
+    },
+    {
+        "Question": "Plants belonging to different classes, with a few similar characters are assigned to a category called",
+        "Option_A": " Phylum",
+        "Option_B": " Order",
+        "Option_C": " Division",
+        "Option_D": " Genus",
+        "Answer": "3"
+    },
+    {
+        "Question": "Amongst the given taxonomic aids, how many are associated with preservation of specimens?Monograph, Flora, Key, Museums, Botanicalgardens, Catalogoue, Herbarium, Manual",
+        "Option_A": " One",
+        "Option_B": " Three",
+        "Option_C": " Two",
+        "Option_D": " Four",
+        "Answer": "3"
+    },
+    {
+        "Question": "Which of the following chemicals is used for poisoning the specimens in herbarium technique?",
+        "Option_A": " Hg",
+        "Option_B": " AgNO",
+        "Option_C": " HCl",
+        "Option_D": " HgCl",
+        "Answer": "4"
+    },
+    {
+        "Question": "The international size of herbarium sheet is",
+        "Option_A": " 41  x  29  cm",
+        "Option_B": " 40 x 30 inches",
+        "Option_C": " 42  x  20  cm",
+        "Option_D": " 39  x  28  cm",
+        "Answer": "1"
+    },
+    {
+        "Question": "Find the correct sequence of various steps of herbarium techniquea. Dryingb. Poisoningc. Collectiond. Labellinge. Mountingf. Depositiong. Stitching",
+        "Option_A": " c,  a,  b,  e,  g,  d,  f",
+        "Option_B": " c,  b,  d,  e,  f,  g,  a",
+        "Option_C": " c,  a,  b,  e,  g,  f,  d",
+        "Option_D": " c,  a,  b,  g,  e,  f,  d",
+        "Answer": "1"
+    },
+    {
+        "Question": "Select  the  correct matchColumn  IColumn  IIa. Ex-situ conservation(i) Central national Herbariumb. Quick referral system(ii) Museumc. Preserved plants and animals(iii) Florad. Actual account of habitat and distribution(iv) Royal Botanical Gardens, Kewof plants of a given area",
+        "Option_A": " a(ii), b(iii), c(iv), d(i)",
+        "Option_B": " a(iv), b(i), c(iii), d(ii)",
+        "Option_C": " a(i), b(iv), c(ii), d(iii)",
+        "Option_D": " a(iv), b(i), c(ii), d(iii)",
+        "Answer": "4"
+    },
+    {
+        "Question": "Live specimens are used for reference in taxonomic studies in",
+        "Option_A": " Museum",
+        "Option_B": " Zoological parks",
+        "Option_C": " Botanical gardens",
+        "Option_D": " More than one option is correct",
+        "Answer": "4"
+    },
+    {
+        "Question": "Study the four statements (A-D) given below and select the two correct ones out of them:A. Definition of biological species was given by Ernst Mayr.B. Photoperiod does not affect reproduction in plants.C. Binomial nomenclature system was given by R.H. Whittaker.D.In unicellular organisms, reproduction is synonymous with growth.The two correct statements are [NEET (Phase-2)-2016]",
+        "Option_A": " B and C",
+        "Option_B": " C and D",
+        "Option_C": " A and D",
+        "Option_D": " A and B",
+        "Answer": "3"
+    },
+    {
+        "Question": "Nomenclature  is  governed  by  certain  universal  rules.  Which  one  of  the  following  is  contrary  to  the  rules  ofnomenclature?    [NEET-2016]",
+        "Option_A": " When written by hand, the names are to be underlined",
+        "Option_B": " Biological names can be written in any language",
+        "Option_C": " The first word in a biological name represents the genus name and the second is a specific epithet",
+        "Option_D": " The names are written in Latin and are italicised",
+        "Answer": "2"
+    },
+    {
+        "Question": "Which one of the following is not a correct statement?[NEET-2013]",
+        "Option_A": " Botanical gardens have collection of living plants for reference",
+        "Option_B": " A museum has collection of photographs of plants and animals",
+        "Option_C": " Key is a taxonomic aid for identification of specimens",
+        "Option_D": " Herbarium houses dried, pressed and preserved plant specimens",
+        "Answer": "2"
+    },
+    {
+        "Question": "Maximum nutritional diversity is found in the group[AIPMT (Prelims)-2012]",
+        "Option_A": " Plantae",
+        "Option_B": " Fungi",
+        "Option_C": " Animalia",
+        "Option_D": " Monera",
+        "Answer": "4"
+    },
+    {
+        "Question": "Which one of the following aspects is an exclusive characteristic of living things?[AIPMT (Mains)-2011]",
+        "Option_A": " Perception of events happening in the environment and their memory",
+        "Option_B": "Increase in mass by accumulation of material both on surface as well as internally",
+        "Option_C": "Isolated metabolic reactions occur in-vitro",
+        "Option_D": "Increase in mass from inside only",
+        "Answer": "4"
+    },
+    {
+        "Question": "The living organisms can be unexceptionally distinguished from the non living things on the basis of their ability for [AIPMT (Prelims)-2007]",
+        "Option_A": " Growth and movement",
+        "Option_B": " Responsiveness to touch",
+        "Option_C": "Interaction with the environment and progressive evolution",
+        "Option_D": " Reproduction",
+        "Answer": "2"
+    },
+    {
+        "Question": "ICBN stands for[AIPMT (Prelims)-2007]",
+        "Option_A": "Indian Code of Botanical Nomenclature",
+        "Option_B": "Indian Congress of Biological Names",
+        "Option_C": "International Code of Botanical Nomenclature",
+        "Option_D": "International Congress of Biological Names",
+        "Answer": "3"
+    },
+    {
+        "Question": "Two plants can be conclusively said to belong to the same species if they:[AIPMT (Prelims)-2007]",
+        "Option_A": " Have same number of chromosomes",
+        "Option_B": " Can reproduce freely with each other and form seeds",
+        "Option_C": " Have more than 90 per cent similar genes",
+        "Option_D": " Look similar and possess identical secondary metabolites",
+        "Answer": "2"
+    },
+    {
+        "Question": "Biosystematics  aims  atSolutions  of  Assignment  (Set-2)",
+        "Option_A": " The classification of organisms based on broad morphological characters",
+        "Option_B": " Delimiting various taxa of organisms and establishing their relationships",
+        "Option_C": " The  classification  of  organisms  based  on  their  evolutionary  history  and  establishing  their  phylogeny  on",
+        "Option_D": "Identification and arrangement of organisms on the basis of their cytological characteristics",
+        "Answer": "3"
+    },
+    {
+        "Question": "The common characteristics between tomato and potato will be maximum at the level of their",
+        "Option_A": " Genus",
+        "Option_B": " Family",
+        "Option_C": " Order",
+        "Option_D": " Division",
+        "Answer": "2"
+    },
+    {
+        "Question": "Taxonomic hierarchy refers to",
+        "Option_A": " Step-wise arrangement of all categories for classification of plants and animals",
+        "Option_B": " A group of senior taxonomists who decide the nomenclature of plants and animals",
+        "Option_C": " A list of botanists or zoologists who have worked on taxonomy of a species or group",
+        "Option_D": " Classification of a species based on fossil record",
+        "Answer": "1"
+    },
+    {
+        "Question": "'Taxon' is the unit of",
+        "Option_A": " Order",
+        "Option_B": " Taxonomy",
+        "Option_C": " Species",
+        "Option_D": " Genus",
+        "Answer": "2"
+    },
+    {
+        "Question": "The closely related morphologically similar sympatric populations, but reproductively isolated, are designatedas",
+        "Option_A": " Clones",
+        "Option_B": " Sibling  species",
+        "Option_C": " Clines",
+        "Option_D": " Demes",
+        "Answer": "2"
+    },
+    {
+        "Question": "Which of the following is least general in characters as compared to genera?",
+        "Option_A": " Species",
+        "Option_B": " Division",
+        "Option_C": " Class",
+        "Option_D": " Family",
+        "Answer": "1"
+    },
+    {
+        "Question": "Species is considered as",
+        "Option_A": " Real basic unit of classification",
+        "Option_B": " The lowest unit of biosystematics",
+        "Option_C": " Artificial concept of human mind which cannot be defined in absolute terms",
+        "Option_D": " Real units of classification devised by taxonomists",
+        "Answer": "1"
+    },
+    {
+        "Question": "Which of the following is not true for a species?",
+        "Option_A": " Members of a species can interbreed",
+        "Option_B": " Gene flow does not occur between the populations of a species",
+        "Option_C": " Each species is reproductively isolated from every other species",
+        "Option_D": " Variations occur among members of a species",
+        "Answer": "2"
+    },
+    {
+        "Question": "One of the most important function of botanical gardens is that",
+        "Option_A": " They provide a beautiful area for recreation",
+        "Option_B": " One can observe tropical plants there",
+        "Option_C": " They allow ex-situ conservation of germplasm",
+        "Option_D": " They provide the natural habitat for wildlife",
+        "Answer": "3"
+    },
+    {
+        "Question": "A : Members of a species are reproductively isolated from the members of other species.R  : Species  is  the  basic  taxonomic  category.",
+        "Answer": "2"
+    },
+    {
+        "Question": "A : Panthera is a polytypic genera.R  : Panthera has specific epithets like  leo, tigris,  pardus.",
+        "Answer": "1"
+    },
+    {
+        "Question": "A : A group of closely related families form an order.R : The families of an order show close resemblance in certain fundamental features and also in evolutionarytrends.",
+        "Answer": "1"
+    },
+    {
+        "Question": "A : Biological concept of species is based on reproductive isolation.R : Most accepted species concept was given by Linnaeus.",
+        "Answer": "3"
+    },
+    {
+        "Question": "A : Synonyms are concerned with one of the most important rules of ICBN.R : Out of the two or more scientific names given to the organism, the oldest name is recognized as valid nameand other names are recognised as synonyms.",
+        "Answer": "1"
+    },
+    {
+        "Question": "A : Botanical gardens are ex-situ conservation strategy of plants.R : National Botanical Garden is situated at Howrah.",
+        "Answer": "3"
+    },
+    {
+        "Question": "A : Two plants A and B are treated as two taxonomic species.R : Both A and B are different in correlated characters.",
+        "Answer": "1"
+    },
+    {
+        "Question": "A : Species  is  a  genetically  closed  system.R  : Because the reproductive isolation constitutes the most important boundary between different species.",
+        "Answer": "1"
+    },
+    {
+        "Question": "A : Scientific names for plants have been standarized through ICBN.R  : Naming system which uses three word format was given by Linnaeus.",
+        "Answer": "3"
+    },
+    {
+        "Question": "A : Dried specimens are poisoned by HgCl.2R  : It protects the specimen from the moisture.",
+        "Answer": "3"
+    }
+]
